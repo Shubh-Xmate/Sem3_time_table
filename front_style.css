@@ -54,7 +54,7 @@ td
 {
     font-size: xx-large;
     font-weight: bold;
-    color : #ff414e;
+    color : greenyellow;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: initial;
@@ -65,9 +65,13 @@ td
     font-size: x-large;
     font-weight: bold;
     text-align: center;
-    color : greenyellow;
+    color : rgb(231, 210, 19);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: italic;
+}
+a
+{
+    color : white;
 }
 
 a:link
