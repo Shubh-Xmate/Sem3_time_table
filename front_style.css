@@ -3,7 +3,7 @@ body
     background-image: url("img8.jpg");
     background-repeat: no-repeat;
     background-position: center;
-    opacity: 0.8;
+    opacity: 1;
 }
 td
 {
@@ -14,7 +14,7 @@ td
     padding: 11px;
     letter-spacing: 1px;
     font-weight: normal;
-    background-color : black;
+    background-color : rgb(20, 3 , 4);
     opacity: 0.8;
     font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
@@ -30,7 +30,8 @@ td
     color : blue;
     font-weight : bold;
     text-align: center;
-    background-image: url("img7.jpg");
+    background-color: rgb(20, 39 , 40);
+    opacity: 0.8;
 }
 
 .Main_row_corner
@@ -40,14 +41,15 @@ td
     color: brown;
     font-weight: bold;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-image: url("img7.jpg");
+    background-color : rgb(20, 60 , 40);
+    opacity: 0.8;
 }
 
 .heading1
 {
     font-size: xx-large;
     font-weight: bold;
-    color : red;
+    color : #9bc400;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: initial;
@@ -58,7 +60,7 @@ td
     font-size: x-large;
     font-weight: bold;
     text-align: center;
-    color : yellow;
+    color : powderblue;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: italic;
 }
