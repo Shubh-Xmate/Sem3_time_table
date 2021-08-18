@@ -36,7 +36,7 @@ td
     font-weight : bold;
     text-align: center;
     background-color: rgb(20, 39 , 40);
-    opacity: 0.8;
+    opacity: 0.7;
 }
 
 .Main_row_corner
@@ -68,7 +68,8 @@ td
     color : rgb(231, 210, 19);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: italic;
-}
+}  
+
 a
 {
     color : white;
@@ -84,3 +85,12 @@ a:hover
     color : orange;
     text-decoration: none;
 }
+
+/* .footer
+{
+    border: 0px;
+    float : right;
+    background-color: black;
+    width : 400 px;
+    color : rgb(107, 108, 110);
+} */
